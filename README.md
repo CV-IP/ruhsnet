@@ -1,10 +1,11 @@
-# Learning to Detect 3D Objects from Point Clouds in Real Time
-Code for the paper `Learning to Detect 3D Objects from Point Clouds in Real Time`.
+# RUHSNet: 3D Object Detection Using Lidar Data in Real Time
+Code for the paper `RUHSNet: 3D Object Detection Using Lidar Data in
+Real Time`.
 
 ![results](images/demo.gif)
 
 
-Link to [Paper](https://abhinavsagar.github.io/files/object_3d.pdf).
+Link to [Paper](https://abhinavsagar.github.io/files/ruhsnet.pdf).
 
 Link to [Blog](https://towardsdatascience.com/3d-object-detection-using-lidar-data-for-self-driving-cars-ee0eb0e6389e).
 
@@ -96,7 +97,8 @@ If you find this code useful in your research, please consider citing the paper:
 
 ```
 @article{sagar2020learning,
-  title={Learning to Detect 3D Objects from Point Clouds in Real Time},
+  title={RUHSNet: 3D Object Detection Using Lidar Data in
+Real Time},
   author={Sagar, Abhinav},
   journal={arXiv preprint arXiv:2006.01250},
   year={2020}
