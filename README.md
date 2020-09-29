@@ -5,10 +5,7 @@ Real Time`.
 ![results](images/demo.gif)
 
 
-Link to [Paper](https://abhinavsagar.github.io/files/ruhsnet.pdf).
-
-Link to [Blog](https://towardsdatascience.com/3d-object-detection-using-lidar-data-for-self-driving-cars-ee0eb0e6389e).
-
+Link to [Paper](https://arxiv.org/pdf/2006.01250.pdf).
 
 ## Abstract
 
