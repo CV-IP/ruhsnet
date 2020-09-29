@@ -92,6 +92,8 @@ Split the training set into training and validation set. And rearrange the folde
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020learning,
   title={RUHSNet: 3D Object Detection Using Lidar Data in
@@ -101,6 +103,10 @@ Real Time},
   year={2020}
 }
 ```
+
+APA:
+
+`Sagar, A. (2020). RUHSNet: 3D Object Detection Using Lidar Data in Real Time. arXiv preprint arXiv:2006.01250.`
 
 ## License
 
