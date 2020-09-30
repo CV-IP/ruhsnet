@@ -4,8 +4,7 @@ Real Time`.
 
 ![results](images/demo.gif)
 
-
-Link to [Paper](https://arxiv.org/pdf/2006.01250.pdf).
+https://arxiv.org/pdf/2006.01250.pdf
 
 ## Abstract
 
