@@ -95,7 +95,7 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
 `Sagar, Abhinav. "RUHSNet: 3D Object Detection Using Lidar Data in Real Time." arXiv preprint arXiv:2006.01250 (2020).`
 
