@@ -21,7 +21,7 @@ the state of the art in this domain both in terms of average precision and speed
 running at > 30 FPS. This makes it a feasible option to be deployed in real time
 applications including self driving cars.
 
-## Data
+## Data:
 
 The dataset can be downloaded from [here](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
@@ -52,28 +52,19 @@ Split the training set into training and validation set. And rearrange the folde
        |__ trainval.txt
 ```
 
-## Dependencies
-
-1. python 3.6+
-2. Pytorch 
-3. opencv-python
-4. shapely
-5. matplotlib
-6. tensorboardX
-
-## Network Architecture
+## Network Architecture:
 
 ![results](images/img1.png)
 
-## Train
+## Train:
 
-`python code/train.py`
+`python train.py`
 
-## Test
+## Test:
 
-`python code/test.py`
+`python test.py`
 
-## Results
+## Results:
 
 ![results](images/img4.png)
 
@@ -81,9 +72,11 @@ Split the training set into training and validation set. And rearrange the folde
 
 ![results](images/img6.png)
 
-## Average Precision
+## Average Precision:
 
 ![results](images/img7.png)
+
+## Predicted vs Ground Truth 3D Object Detection
 
 ![results](images/img8.png)
 
@@ -95,8 +88,7 @@ BibTex:
 
 ```
 @article{sagar2020learning,
-  title={RUHSNet: 3D Object Detection Using Lidar Data in
-Real Time},
+  title={RUHSNet: 3D Object Detection Using Lidar Data in Real Time},
   author={Sagar, Abhinav},
   journal={arXiv preprint arXiv:2006.01250},
   year={2020}
@@ -105,7 +97,7 @@ Real Time},
 
 APA:
 
-`Sagar, A. (2020). RUHSNet: 3D Object Detection Using Lidar Data in Real Time. arXiv preprint arXiv:2006.01250.`
+`Sagar, Abhinav. "RUHSNet: 3D Object Detection Using Lidar Data in Real Time." arXiv preprint arXiv:2006.01250 (2020).`
 
 ## License
 
